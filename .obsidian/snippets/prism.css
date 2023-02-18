@@ -64,7 +64,7 @@ body {
 
 .markdown-source-view:not(.is-live-preview),
 .markdown-source-view.mod-cm6 .cm-scroller {
-  --font-text: '华文楷体';
+  --font-text: 'LXGW WenKai', '华文楷体';
 }
 
 .lora {
@@ -92,7 +92,7 @@ body {
 .custom-block {
   --font-size: 1rem;
   --code-font-size: 0.8rem;
-  font-family: "Baloo 2", '华文楷体';
+  font-family: "Baloo 2", 'LXGW WenKai', '华文楷体';
   padding-bottom: 1rem;
 }
 
@@ -118,7 +118,11 @@ body {
 
 .custom-block :is(h1, h2, h3, h4, h5, h6) {
   color: #0C1021;
-  font-family: "Baloo 2", '华文新魏', '魏碑-简';
+  border-bottom: none !important;
+}
+
+.custom-block :is(h1, h2, h3, h4, h5, h6):is(::before, ::after) {
+  display: none !important;
 }
 
 .custom-block ul>li::marker {
@@ -134,7 +138,6 @@ body {
 }
 
 /* Header */
-
 h1,
 h2,
 h3,
@@ -145,7 +148,7 @@ h6 {
   font-weight: 800 !important;
   margin: 1rem 0 !important;
   color: var(--text-normal);
-  font-family: 'Lora', '宋体', '宋体-简' !important;
+  font-family: 'Lora', '新宋体', '宋体-简' !important;
 }
 
 h1 {
