@@ -425,3 +425,15 @@ table {
   --anp-table-align-th: left;
   --anp-table-align-td: left;
 }
+
+/* note-it-editor */
+.note-it-editor .preview code:not([class^="language-"]) {
+  font-family: var(--font-monospace);
+  color: var(--code-normal);
+  font-size: .85em;
+}
+
+.note-it-editor :is(textarea, .preview),
+.note-it-editor :is(textarea, .preview) :is(p, li) {
+  font-size: 1rem !important;
+}
