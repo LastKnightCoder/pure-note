@@ -6,7 +6,7 @@
     "prism",
     "demos"
   ],
-  "theme": "moonstone",
+  "theme": "obsidian",
   "baseFontSize": 16,
   "cssTheme": "AnuPpuccin",
   "nativeMenus": true
