@@ -1,0 +1,16 @@
+{
+  "pluginList": [
+    "LastKnightCoder/obsidian-note-it",
+    "LastKnightCoder/obsidian-antd"
+  ],
+  "pluginSubListFrozenVersion": [],
+  "themesList": [],
+  "updateAtStartup": false,
+  "updateThemesAtStartup": false,
+  "ribbonIconEnabled": false,
+  "loggingEnabled": false,
+  "loggingPath": "BRAT-log",
+  "loggingVerboseEnabled": false,
+  "debuggingMode": true,
+  "notificationsEnabled": true
+}

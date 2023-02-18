@@ -1,0 +1,91 @@
+{
+  "editing": {
+    "content": "",
+    "preview": "",
+    "tags": []
+  },
+  "notes": [
+    {
+      "content": "为 `obsidian-note-it` 添加一个新功能，在右侧注册一个页面，可以随时进行记录，并保存到文件中。\n\n一般用于阅读的时候有一些想法，用以记录，现在的想法都是分散在文档里面的，可能不太好回顾，把他单独抽离出来会比较好。",
+      "preview": "<p>为 <code>obsidian-note-it</code> 添加一个新功能，在右侧注册一个页面，可以随时进行记录，并保存到文件中。</p>\n<p>一般用于阅读的时候有一些想法，用以记录，现在的想法都是分散在文档里面的，可能不太好回顾，把他单独抽离出来会比较好。</p>",
+      "tags": [
+        "插件",
+        "zk卡片"
+      ],
+      "createTime": 1676105883229,
+      "updateTime": 1676105910918,
+      "uuid": "1e735205-1a6b-4c44-8c05-2a2a60bdb247",
+      "isCreated": true,
+      "isDeleted": true
+    },
+    {
+      "content": "- [x] TypeScript",
+      "preview": "<ul class=\"contains-task-list\">\n<li data-task=\"x\" class=\"task-list-item is-checked\"><input checked=\"\" type=\"checkbox\" class=\"task-list-item-checkbox\">TypeScript</li>\n</ul>",
+      "tags": [
+        "学习"
+      ],
+      "createTime": 1665572642621,
+      "updateTime": 1668388010565,
+      "uuid": "769e198e-2508-4059-aa0e-77147d226532",
+      "isCreated": true,
+      "isDeleted": true
+    },
+    {
+      "content": "- [x] 基于SVG的文字垂直居中方案",
+      "preview": "<ul class=\"contains-task-list\">\n<li data-task=\"x\" class=\"task-list-item is-checked\"><input checked=\"\" type=\"checkbox\" class=\"task-list-item-checkbox\">基于SVG的文字垂直居中方案</li>\n</ul>",
+      "tags": [
+        "文章"
+      ],
+      "createTime": 1665572614526,
+      "updateTime": 1665824865676,
+      "uuid": "f7f5302e-c58b-48cf-8b67-a02e9e9ba47b",
+      "isCreated": true,
+      "isDeleted": true
+    },
+    {
+      "content": "吃饭吃什么",
+      "preview": "<p>吃饭吃什么</p>",
+      "tags": [],
+      "createTime": 1662960794891,
+      "updateTime": 1662960794891,
+      "uuid": "b61cbead-60d4-48be-8a3a-249222ad7211",
+      "isCreated": true,
+      "isDeleted": true
+    },
+    {
+      "content": "吃饭",
+      "preview": "<p>吃饭</p>",
+      "tags": [],
+      "createTime": 1662960739051,
+      "updateTime": 1662960748539,
+      "uuid": "92fb2cd6-baa8-4781-a58d-6357acead544",
+      "isCreated": true,
+      "isDeleted": true
+    },
+    {
+      "content": "- [x] 支持卡片高度，超出显示查看更多\n- [x] 支持按 tag 显示\n- [x] 支持搜索",
+      "preview": "<ul class=\"contains-task-list\">\n<li data-task=\"x\" class=\"task-list-item is-checked\"><input checked=\"\" type=\"checkbox\" class=\"task-list-item-checkbox\">支持卡片高度，超出显示查看更多</li>\n<li data-task=\"x\" class=\"task-list-item is-checked\"><input checked=\"\" type=\"checkbox\" class=\"task-list-item-checkbox\">支持按 tag 显示</li>\n<li data-task=\"x\" class=\"task-list-item is-checked\"><input checked=\"\" type=\"checkbox\" class=\"task-list-item-checkbox\">支持搜索</li>\n</ul>",
+      "tags": [
+        "小记",
+        "Obsidian",
+        "插件"
+      ],
+      "createTime": 1662960620940,
+      "updateTime": 1663343633670,
+      "uuid": "0d373337-1e29-4a09-b7e6-83b7aaba897e",
+      "isCreated": true,
+      "isDeleted": true
+    },
+    {
+      "content": "- [ ] 录一个 Markdown 教学视频\n- [ ] Obsidian 介绍的视频\n- [ ] 介绍我开发的 Obsidian 插件\n- [ ] 如何开发 Obsidian 插件\n- [ ] 如何拥有一个个人博客\n\n\n",
+      "preview": "<ul class=\"contains-task-list\">\n<li data-task=\"\" class=\"task-list-item\"><input type=\"checkbox\" class=\"task-list-item-checkbox\">录一个 Markdown 教学视频</li>\n<li data-task=\"\" class=\"task-list-item\"><input type=\"checkbox\" class=\"task-list-item-checkbox\">Obsidian 介绍的视频</li>\n<li data-task=\"\" class=\"task-list-item\"><input type=\"checkbox\" class=\"task-list-item-checkbox\">介绍我开发的 Obsidian 插件</li>\n<li data-task=\"\" class=\"task-list-item\"><input type=\"checkbox\" class=\"task-list-item-checkbox\">如何开发 Obsidian 插件</li>\n<li data-task=\"\" class=\"task-list-item\"><input type=\"checkbox\" class=\"task-list-item-checkbox\">如何拥有一个个人博客</li>\n</ul>",
+      "tags": [
+        "视频"
+      ],
+      "createTime": 1662960362863,
+      "updateTime": 1665572649498,
+      "uuid": "737e31f1-14a6-4d27-bdd4-787de699c8d2",
+      "isCreated": true
+    }
+  ]
+}

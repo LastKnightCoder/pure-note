@@ -1,0 +1,8 @@
+td:hover {
+  border-radius: 0 !important;
+}
+
+
+[class^="ant"], [class^=" ant"] {
+  font-family: var(--font-text);
+}

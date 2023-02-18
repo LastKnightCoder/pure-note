@@ -1,0 +1,201 @@
+:root {
+  --red: #ec2d7a;
+  --green: #45b787;
+}
+
+/* CSS/伪类选择器(一) */
+
+a#css-presudo1-bilibili-link:link {
+  /* 未访问时，颜色为红色 */
+  color: red;
+}
+a#css-presudo1-bilibili-link:visited {
+  /* 访问之后，颜色为绿色 */
+  color: green;
+}
+a#css-presudo1-bilibili-link:hover {
+  /* 鼠标放上去时，颜色为粉色 */
+  color: pink;
+}
+a#css-presudo1-bilibili-link:active {
+  /* 鼠标点击不放的过程中，颜色为蓝色 */
+  color: blue;
+}
+
+
+input.css-presudo1-input-focus {
+  border: 0;
+  border-bottom: 2px solid black;
+  outline: none;
+  padding: 5px 10px;
+  outline: 1px solid black;
+  margin: 10px 0;
+}
+input.css-presudo1-input-focus:focus {
+  color: pink;
+}
+
+
+input.css-presudo1-input-efable:enabled {
+  color: green;
+  font-weight: bold;
+}
+input.css-presudo1-input-efable:disabled {
+  color: gray;
+  font-weight: bold;
+}
+
+
+div.css-presudo1-input-rcheck input[type="checkbox"] {
+  margin: 0 15px 0 8px;
+}
+div.css-presudo1-input-rcheck input:checked {
+  transform: scale(1.5);
+}
+
+
+div#css-presudo1-input-ropt input {
+  border: none;
+  outline: none;
+  border-bottom: 2px solid black !important;
+  padding: 5px 10px;
+  vertical-align: bottom;
+  border-radius: 5px;
+}
+div#css-presudo1-input-ropt input:required {
+  border-color: var(--red) !important;
+}
+div#css-presudo1-input-ropt input:optional {
+  border-color: var(--green) !important;
+}
+
+div#css-presudo1-input-valid input {
+  border: 0;
+  outline: none;
+  padding: 5px 10px;
+  border-bottom: 2px solid black!important;
+  vertical-align: bottom;
+}
+div#css-presudo1-input-valid input:valid {
+  border-color: var(--green) !important;
+}
+div#css-presudo1-input-valid input:invalid {
+  border-color: var(--red) !important;
+}
+
+div#css-presudo1-input-range input:in-range {
+  color: var(--green);
+}
+div#css-presudo1-input-range input:out-of-range {
+  color: var(--red);
+}
+
+
+/* CSS/伪类选择器(二) */
+
+div#css-presudo2-ul-nchild li:nth-child(2) {
+  color: var(--red);
+}
+
+div#css-presudo2-ul2-nchild li:nth-child(n + 2) {
+  color: var(--red);
+}
+
+div#css-presudo2-ul3-nchild li:nth-child(2n) {
+  color: var(--red);
+}
+div#css-presudo2-ul3-nchild li:nth-child(2n + 1) {
+  color: var(--green);
+}
+
+div#css-presudo2-ul4-nchild li:nth-child(-n + 2) {
+  color: var(--red);
+}
+div#css-presudo2-ul4-nchild li:nth-child(n + 4) {
+  color: var(--green);
+}
+
+div#css-presudo2-ul5-nchild li:nth-last-child(1) {
+  color: var(--red);
+}
+div#css-presudo2-ul5-nchild li:nth-last-child(n + 3) {
+  color: var(--green);
+}
+
+div#css-presudo2-ul6-nchild li:first-child {
+  color: var(--red);
+}
+div#css-presudo2-ul6-nchild li:last-child {
+  color: var(--green);
+}
+
+div#css-presudo2-p-ntypechild p {
+  line-height: 1;
+}
+div#css-presudo2-p-ntypechild p:nth-of-type(3){
+  color: var(--red);
+}
+
+div#css-presudo2-ul7-nchild ul {
+  padding: 0;
+}
+div#css-presudo2-ul7-nchild li:only-child {
+  color: var(--red);
+}
+
+div#css-presudo2-p2-ntypechild p:only-of-type{
+  color: var(--red);
+}
+
+div#css-presudo2-p3-target p:target{
+  color: var(--red);
+}
+
+div#css-presudo2-p4-not p:not(.no-select) {
+  color: var(--red);
+}
+
+div#css-presudo2-p5-where :is(.class1, .class3, .class4) p span{
+  color: var(--red);
+}
+
+div#css-presudo2-p5-where :where(.class1, .class3, .class4) p span {
+  color: var(--green);
+}
+
+div#css-presudo2-div-empty div {
+  width: 150px !important;
+  height: 50px;
+  border: 1px dashed black;
+}
+
+div#css-presudo2-div-empty div:empty {
+  background-color: var(--green);
+}
+
+.container[data-id="1"] {
+  --color: black;
+  --bgColor: white;
+  --border-color: black;
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+  /* width: 300px; */
+  color: var(--color);
+  background-color: var(--bgColor);
+  border: 1px solid var(--border-color);
+  border-radius: 5px;
+  margin: 10px auto;
+  padding: 1em;
+  transition: all 0.2s;
+}
+
+.container[data-id="1"][data-theme="dark"] {
+  --color: white;
+  --bgColor: black;
+  --border-color: white;
+}
+
+.container[data-id="1"] .info {
+  margin-left: auto;
+}

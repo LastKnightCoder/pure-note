@@ -1,0 +1,103 @@
+{
+  "markdown:toggle-preview": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "/"
+    }
+  ],
+  "editor:toggle-comments": [],
+  "theme:use-dark": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "D"
+    }
+  ],
+  "editor:delete-paragraph": [],
+  "theme:use-light": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "L"
+    }
+  ],
+  "omnisearch:show-modal": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "K"
+    }
+  ],
+  "switcher:open": [],
+  "editor:save-file": [],
+  "editor:toggle-checklist-status": [],
+  "obsidian-excalidraw-plugin:insert-link": [],
+  "workspace:goto-tab-1": [],
+  "workspace:goto-tab-2": [],
+  "workspace:goto-tab-3": [],
+  "workspace:goto-tab-4": [],
+  "workspace:goto-tab-5": [],
+  "workspace:goto-tab-6": [],
+  "workspace:goto-tab-7": [],
+  "workspace:goto-tab-8": [],
+  "editor:insert-link": [],
+  "workspace:edit-file-title": [],
+  "app:open-help": [],
+  "app:go-back": [],
+  "workspace:close-window": [],
+  "workspace:close": [],
+  "app:go-forward": [],
+  "editor:toggle-italics": [],
+  "workspace:new-tab": [],
+  "file-explorer:new-file": [],
+  "file-explorer:new-file-in-new-pane": [],
+  "editor:open-link-in-new-window": [],
+  "easy-typing-obsidian:easy-typing-format-switch": [],
+  "easy-typing-obsidian:easy-typing-delete-blank-line": [],
+  "easy-typing-obsidian:easy-typing-format-selection": [],
+  "easy-typing-obsidian:easy-typing-format-article": [],
+  "easy-typing-obsidian:easy-typing-insert-codeblock": [],
+  "obsidian-excalidraw-plugin:toggle-lock": [],
+  "workspace:goto-last-tab": [],
+  "workspace:next-tab": [],
+  "workspace:previous-tab": [],
+  "obsidian-editing-toolbar:header1-text": [],
+  "obsidian-editing-toolbar:header2-text": [],
+  "obsidian-editing-toolbar:header3-text": [],
+  "obsidian-editing-toolbar:header4-text": [],
+  "obsidian-editing-toolbar:header5-text": [],
+  "obsidian-editing-toolbar:header6-text": [],
+  "obsidian-editing-toolbar:fullscreen-focus": [],
+  "obsidian-editing-toolbar:header0-text": [],
+  "obsidian-editing-toolbar:workplace-fullscreen-focus": [],
+  "workspace:undo-close-pane": [],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "L"
+    }
+  ],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "R"
+    }
+  ],
+  "global-search:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "O"
+    }
+  ]
+}

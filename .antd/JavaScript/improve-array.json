@@ -1,0 +1,57 @@
+{
+  "dataSource": [
+    {
+      "key": "0",
+      "构造函数": "Int8Array",
+      "元素大小": "1"
+    },
+    {
+      "key": "1",
+      "构造函数": "Uint8Array",
+      "元素大小": "1"
+    },
+    {
+      "key": "2",
+      "构造函数": "Int16Array",
+      "元素大小": "2"
+    },
+    {
+      "key": "3",
+      "构造函数": "Uint16Array",
+      "元素大小": "2"
+    },
+    {
+      "key": "4",
+      "构造函数": "Int32Array",
+      "元素大小": "4"
+    },
+    {
+      "key": "5",
+      "构造函数": "Uint32Array",
+      "元素大小": "4"
+    },
+    {
+      "key": "6",
+      "构造函数": "Float32Array",
+      "元素大小": "4"
+    },
+    {
+      "key": "7",
+      "构造函数": "Float64Array",
+      "元素大小": "8"
+    }
+  ],
+  "columns": [
+    {
+      "title": "构造函数",
+      "dataIndex": "构造函数",
+      "editable": true
+    },
+    {
+      "title": "元素大小",
+      "dataIndex": "元素大小",
+      "editable": true
+    }
+  ],
+  "keyCounter": 8
+}

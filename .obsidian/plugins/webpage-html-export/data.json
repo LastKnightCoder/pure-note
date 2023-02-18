@@ -1,0 +1,12 @@
+{
+  "inlineCSS": true,
+  "inlineJS": true,
+  "inlineImages": true,
+  "makeNamesWebStyle": false,
+  "includePluginCSS": "obsidian-style-settings\nobsidian-styled-container\nobsidian-antd\nbetter-fn",
+  "addDarkModeToggle": true,
+  "includeOutline": true,
+  "customLineWidth": 0,
+  "openAfterExport": true,
+  "lastExportPath": "/Users/xt/Desktop/生命周期函数.html"
+}

@@ -1,0 +1,35 @@
+{
+  "menuCommands": [
+    {
+      "name": "Styled Container: Add Comments GREEN",
+      "id": "obsidian-styled-container:Add Comments GREEN",
+      "icon": "activity"
+    },
+    {
+      "name": "Styled Container: Add Comments RED",
+      "id": "obsidian-styled-container:Add Comments RED",
+      "icon": "alarm-check"
+    },
+    {
+      "name": "Styled Container: Add Comments BLUE",
+      "id": "obsidian-styled-container:Add Comments BLUE",
+      "icon": "alarm-clock-off"
+    },
+    {
+      "name": "Styled Container: Add Comments PURPLE",
+      "id": "obsidian-styled-container:Add Comments PURPLE",
+      "icon": "airplay"
+    },
+    {
+      "name": "Styled Container: Add Custom Block NOTE",
+      "id": "obsidian-styled-container:Add Custom Block NOTE",
+      "icon": "album"
+    },
+    {
+      "name": "Styled Container: Add Custom Block INFO",
+      "id": "obsidian-styled-container:Add Custom Block INFO",
+      "icon": "alert-circle"
+    }
+  ],
+  "hideTitles": []
+}

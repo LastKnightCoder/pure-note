@@ -1,0 +1,46 @@
+{
+  "editing": {
+    "content": "",
+    "preview": "",
+    "tags": []
+  },
+  "notes": [
+    {
+      "content": "微信没有获取体验吗的接口，但是可以通过一个网址生成二维码",
+      "preview": "<p>微信没有获取体验吗的接口，但是可以通过一个网址生成二维码</p>",
+      "tags": [
+        "微信",
+        "小程序",
+        "体验码"
+      ],
+      "createTime": 1675262656076,
+      "updateTime": 1675262656076,
+      "uuid": "53a3cbb7-4398-499c-9105-927a839764fb",
+      "isCreated": true
+    },
+    {
+      "content": "元素设置 `display: flex` 之后，设置 `text-overflow` 不起作用。",
+      "preview": "<p>元素设置 <code>display: flex</code> 之后，设置 <code>text-overflow</code> 不起作用。</p>",
+      "tags": [
+        "CSS"
+      ],
+      "createTime": 1665588615602,
+      "updateTime": 1665824990778,
+      "uuid": "f926e634-c62f-480b-b9b9-f09be25b9d2a",
+      "isCreated": true
+    },
+    {
+      "content": "在浏览器中通过 `window.innerWidth` 获取屏幕宽度时，有的手机在微信上面获得的数字相比于其它应用获得的数字偏小。\n\n我的手机是 Redmi K40S，在高德上的屏幕大小是 393，在微信上获得的大小是 360。试过了很多办法，微信上都是偏小的。",
+      "preview": "<p>在浏览器中通过 <code>window.innerWidth</code> 获取屏幕宽度时，有的手机在微信上面获得的数字相比于其它应用获得的数字偏小。</p>\n<p>我的手机是 Redmi K40S，在高德上的屏幕大小是 393，在微信上获得的大小是 360。试过了很多办法，微信上都是偏小的。</p>",
+      "tags": [
+        "踩坑",
+        "微信"
+      ],
+      "createTime": 1665209656929,
+      "updateTime": 1665825011200,
+      "uuid": "c282d4bc-5ac0-4a8a-b61c-50ee4c195e39",
+      "isCreated": true,
+      "isDeleted": true
+    }
+  ]
+}

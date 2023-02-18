@@ -1,0 +1,15 @@
+{
+  "showCLICommands": true,
+  "addExtensionsToInternalLinks": "html",
+  "injectAppCSS": "current",
+  "injectThemeCSS": false,
+  "customCSSFile": "C:\\Users\\22231\\Documents\\Obsidian笔记\\.obsidian\\snippets\\prism.css",
+  "displayYAMLFrontmatter": false,
+  "linkStrippingBehaviour": "text",
+  "highDPIDiagrams": true,
+  "pandoc": " C:\\Program Files\\Pandoc\\pandoc.exe",
+  "pdflatex": " C:\\texlive\\2022\\bin\\win32\\pdflatex.exe",
+  "outputFolder": "C:\\Users\\22231\\Desktop",
+  "extraArguments": "",
+  "exportFrom": "html"
+}

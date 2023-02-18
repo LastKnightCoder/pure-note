@@ -1,0 +1,13 @@
+{
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "antd-user",
+    "clay",
+    "prism",
+    "demos"
+  ],
+  "theme": "obsidian",
+  "baseFontSize": 16,
+  "cssTheme": "AnuPpuccin",
+  "nativeMenus": true
+}

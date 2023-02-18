@@ -1,0 +1,73 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [
+    {
+      "id": "obsidian-quiet-outline:quiet-outline",
+      "icon": "book-open",
+      "name": "Quiet Outline: Quiet Outline",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-styled-container:Add Comments GREEN",
+      "icon": "activity",
+      "name": "Styled Container: Add Comments GREEN",
+      "mode": "any"
+    }
+  ],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [
+    {
+      "id": "obsidian-styled-container:Add Comments RED",
+      "icon": "album",
+      "name": "Styled Container: Add Comments RED",
+      "mode": "desktop"
+    }
+  ],
+  "pageHeader": [
+    {
+      "id": "obsidian-styled-container:Add Custom Block NOTE",
+      "icon": "alert-circle",
+      "name": "Styled Container: Add Custom Block NOTE",
+      "mode": "desktop",
+      "color": "#e0e4e6"
+    },
+    {
+      "id": "obsidian-antd:Add Web Component xt-popover",
+      "icon": "award",
+      "name": "Antd: Add Web Component xt-popover",
+      "mode": "desktop",
+      "color": "#e4e708"
+    }
+  ],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [
+      "editor-status",
+      "obsidian-editing-toolbar"
+    ],
+    "leftRibbon": [
+      "新建 Excalidraw 绘图",
+      "打开命令面板",
+      "Create new canvas",
+      "打开快速切换",
+      "Omnisearch"
+    ]
+  },
+  "spacing": 8,
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

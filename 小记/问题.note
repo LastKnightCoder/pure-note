@@ -1,0 +1,21 @@
+{
+  "editing": {
+    "content": "",
+    "preview": "",
+    "tags": []
+  },
+  "notes": [
+    {
+      "content": "`cargo` 下载的包放在哪里呢？\n\n疑是在 `~/.cargo/registry/cache` 下面，不确定。",
+      "preview": "<p><code>cargo</code> 下载的包放在哪里呢？</p>\n<p>疑是在 <code>~/.cargo/registry/cache</code> 下面，不确定。</p>",
+      "tags": [
+        "Rust",
+        "Cargo"
+      ],
+      "createTime": 1670677424821,
+      "updateTime": 1670677742978,
+      "uuid": "1e7bc3bc-353a-4947-80f6-45e6a43ec0d8",
+      "isCreated": true
+    }
+  ]
+}

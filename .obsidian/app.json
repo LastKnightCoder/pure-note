@@ -1,0 +1,28 @@
+{
+  "mobileToolbarCommands": [
+    "editor:set-heading",
+    "editor:toggle-bold",
+    "editor:toggle-code",
+    "editor:toggle-blockquote",
+    "obsidian-styled-container:Add Comments GREEN",
+    "editor:toggle-bullet-list",
+    "editor:toggle-numbered-list",
+    "editor:toggle-checklist-status",
+    "editor:undo",
+    "editor:redo",
+    "editor:toggle-keyboard",
+    "editor:configure-toolbar"
+  ],
+  "livePreview": false,
+  "defaultViewMode": "preview",
+  "strictLineBreaks": true,
+  "tabSize": 2,
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "showUnsupportedFiles": true,
+  "useTab": false,
+  "readableLineLength": true,
+  "showLineNumber": false,
+  "rightToLeft": false,
+  "showFrontmatter": true
+}

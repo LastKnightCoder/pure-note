@@ -1,0 +1,36 @@
+{
+  "editing": {
+    "content": "",
+    "preview": "",
+    "tags": []
+  },
+  "notes": [
+    {
+      "content": "Mac 下使用 `Command + Shift + .` 打开隐藏文件夹。",
+      "preview": "<p>Mac 下使用 <code>Command + Shift + .</code> 打开隐藏文件夹。</p>",
+      "tags": [
+        "快捷键",
+        "Mac",
+        "隐藏文件夹"
+      ],
+      "createTime": 1675757341112,
+      "updateTime": 1675757341112,
+      "uuid": "fb8654c5-e7a0-45a4-a7bc-8dcdc483cbb1",
+      "isCreated": true,
+      "isDeleted": true
+    },
+    {
+      "content": "中国蓝色银行硅谷支行电话：0532-86552038、0532-86552367\t",
+      "preview": "<p>中国蓝色银行硅谷支行电话：0532-86552038、0532-86552367\t</p>",
+      "tags": [
+        "中国银行",
+        "校园地助学贷款"
+      ],
+      "createTime": 1672643318733,
+      "updateTime": 1672643318733,
+      "uuid": "af329663-831f-44d4-8321-64e45b1f809a",
+      "isCreated": true,
+      "isDeleted": true
+    }
+  ]
+}

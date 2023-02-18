@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"9ca9e3881caf78b4","x":-578,"y":-829,"width":125,"height":58,"type":"text","text":"模块系统"},
+		{"id":"4cbc3b3b76cf8462","x":-578,"y":-652,"width":125,"height":52,"type":"text","text":"package"},
+		{"id":"3e7d3ef0ef3574d0","x":-286,"y":-754,"width":563,"height":61,"type":"text","text":"可以包含多个 crate，crate 分为 binary crate 和 linrary crate"},
+		{"id":"225fa1fdc5b15dcc","x":-286,"y":-546,"width":351,"height":60,"type":"text","text":"可以有多个 binary crate"},
+		{"id":"6f9121380e6241dd","x":-761,"y":-348,"width":86,"height":50,"type":"text","text":"crate"},
+		{"id":"e17b055117ab6749","x":-558,"y":-348,"width":86,"height":50,"type":"text","text":"crate"},
+		{"id":"86d54bcf6553e57f","x":-349,"y":-348,"width":86,"height":50,"type":"text","text":"crate"},
+		{"id":"b6c279b8cffc291c","x":-927,"y":-47,"width":501,"height":84,"type":"text","text":"每个 crate 都有一个 root file，Rust 会把 crate root file 传递给 rustc 进行编译和构建"},
+		{"id":"b0d91a5c991a39fd","x":-286,"y":-656,"width":311,"height":60,"type":"text","text":"最多只能有一个 library crate"},
+		{"id":"17d6b9f8b6ce668a","x":-286,"y":37,"width":407,"height":52,"type":"text","text":"library crate，默认 root file 是 `src/lib.rs`"},
+		{"id":"65db6f016311db1d","x":-286,"y":-124,"width":407,"height":77,"type":"text","text":"binary crate，默认 root file 是 `src/main.rs`，如果有多个 binary crate，放置在 `src/bin/` 下面"}
+	],
+	"edges":[
+		{"id":"be5b454651aec630","fromNode":"9ca9e3881caf78b4","fromSide":"bottom","toNode":"4cbc3b3b76cf8462","toSide":"top"},
+		{"id":"557cc68c53f436bb","fromNode":"4cbc3b3b76cf8462","fromSide":"bottom","toNode":"6f9121380e6241dd","toSide":"top"},
+		{"id":"33b5d7316a3fed58","fromNode":"4cbc3b3b76cf8462","fromSide":"bottom","toNode":"e17b055117ab6749","toSide":"top"},
+		{"id":"d6ec08fe2e962532","fromNode":"4cbc3b3b76cf8462","fromSide":"bottom","toNode":"86d54bcf6553e57f","toSide":"top"},
+		{"id":"bee332f9c2b46a53","fromNode":"4cbc3b3b76cf8462","fromSide":"right","toNode":"3e7d3ef0ef3574d0","toSide":"left"},
+		{"id":"8b9a3f817770d6c1","fromNode":"4cbc3b3b76cf8462","fromSide":"right","toNode":"b0d91a5c991a39fd","toSide":"left"},
+		{"id":"71f4b09b4030c48c","fromNode":"4cbc3b3b76cf8462","fromSide":"right","toNode":"225fa1fdc5b15dcc","toSide":"left"},
+		{"id":"17691b6f23829b8c","fromNode":"b6c279b8cffc291c","fromSide":"right","toNode":"65db6f016311db1d","toSide":"left"},
+		{"id":"b8d40cfbbdfcf31e","fromNode":"b6c279b8cffc291c","fromSide":"right","toNode":"17d6b9f8b6ce668a","toSide":"left"}
+	]
+}

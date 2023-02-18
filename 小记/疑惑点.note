@@ -1,0 +1,218 @@
+{
+  "editing": {
+    "content": "",
+    "preview": "",
+    "tags": []
+  },
+  "notes": [
+    {
+      "content": "如何取消网络请求：\n\n- fetch: `AbortController`\n- xhr: `abort`\n- axios",
+      "preview": "<p>如何取消网络请求：</p>\n<ul>\n<li>fetch: <code>AbortController</code></li>\n<li>xhr: <code>abort</code></li>\n<li>axios</li>\n</ul>",
+      "tags": [
+        "网络请求",
+        "abort",
+        "fetch",
+        "xhr",
+        "axios"
+      ],
+      "createTime": 1668992006576,
+      "updateTime": 1668992021089,
+      "uuid": "e0092310-a965-4fc5-813b-a912d36fd4b7",
+      "isCreated": true
+    },
+    {
+      "content": "`MessageChannel` 的使用，可以看到 Vue 在源码中使用了。",
+      "preview": "<p><code>MessageChannel</code> 的使用，可以看到 Vue 在源码中使用了。</p>",
+      "tags": [],
+      "createTime": 1668389650664,
+      "updateTime": 1668389650664,
+      "uuid": "843a004f-288a-42f3-89fb-3fc11f5390c7",
+      "isCreated": true,
+      "isDeleted": true
+    },
+    {
+      "content": "`web-vitals` 是什么",
+      "preview": "<p><code>web-vitals</code> 是什么</p>",
+      "tags": [
+        "性能优化"
+      ],
+      "createTime": 1668310472679,
+      "updateTime": 1668310488252,
+      "uuid": "c65b3686-b0cb-4080-bec5-5bb865d8d8ee",
+      "isCreated": true
+    },
+    {
+      "content": "`React Portal` 是什么",
+      "preview": "<p><code>React Portal</code> 是什么</p>",
+      "tags": [
+        "React"
+      ],
+      "createTime": 1668261151322,
+      "updateTime": 1668310480133,
+      "uuid": "bf821917-b1d0-4873-8cbf-713210cfec7c",
+      "isCreated": true
+    },
+    {
+      "content": "`preloda` 与 `prefetch`",
+      "preview": "<p><code>preloda</code> 与 <code>prefetch</code></p>",
+      "tags": [
+        "性能优化"
+      ],
+      "createTime": 1668181033670,
+      "updateTime": 1668310496937,
+      "uuid": "ba6704c3-57ca-499c-83b6-170aaf373e0f",
+      "isCreated": true
+    },
+    {
+      "content": "`conda install pytorch -c pytorch`，这个 `-c` 是什么意思。",
+      "preview": "<p><code>conda install pytorch -c pytorch</code>，这个 <code>-c</code> 是什么意思。</p>",
+      "tags": [
+        "conda",
+        "pytorch"
+      ],
+      "createTime": 1667450695326,
+      "updateTime": 1668310515365,
+      "uuid": "d1b94071-95fb-47e1-b602-3ff3797cc45d",
+      "isCreated": true
+    },
+    {
+      "content": "约束为 `unknown[] | []` 就是 `as const` 的意思。",
+      "preview": "<p>约束为 <code>unknown[] | []</code> 就是 <code>as const</code> 的意思。</p>",
+      "tags": [
+        "ts"
+      ],
+      "createTime": 1667396088850,
+      "updateTime": 1667396100391,
+      "uuid": "914b0a59-78a5-4730-8a80-ba1fb1c03a30",
+      "isCreated": true
+    },
+    {
+      "content": "`0.0.0.0` 这个地址是什么意思呢？",
+      "preview": "<p><code>0.0.0.0</code> 这个地址是什么意思呢？</p>",
+      "tags": [
+        "网络",
+        "ip"
+      ],
+      "createTime": 1667361128581,
+      "updateTime": 1667361128581,
+      "uuid": "d336aba4-00fa-4b58-ab58-c14a6b6e27ac",
+      "isCreated": true
+    },
+    {
+      "content": "`entry`\n\n- `dependOn`\n- `runtime`",
+      "preview": "<p><code>entry</code></p>\n<ul>\n<li><code>dependOn</code></li>\n<li><code>runtime</code></li>\n</ul>",
+      "tags": [
+        "webpack"
+      ],
+      "createTime": 1667101755460,
+      "updateTime": 1667101765723,
+      "uuid": "23f8eb20-25e8-4ce3-ad22-9fc42ab921e3",
+      "isCreated": true
+    },
+    {
+      "content": "`peerDependencies`",
+      "preview": "<p><code>peerDependencies</code></p>",
+      "tags": [
+        "package.json"
+      ],
+      "createTime": 1667096379128,
+      "updateTime": 1667101775377,
+      "uuid": "517f5370-e09e-4f7d-b9c2-e43afce1f50f",
+      "isCreated": true
+    },
+    {
+      "content": "`configureWebpack` 与 `chainWebpack`。\n\n`webpack-merge`",
+      "preview": "<p><code>configureWebpack</code> 与 <code>chainWebpack</code>。</p>\n<p><code>webpack-merge</code></p>",
+      "tags": [
+        "Webpack"
+      ],
+      "createTime": 1667058954332,
+      "updateTime": 1667058999625,
+      "uuid": "a7bfacb5-4728-4b5a-84e3-9c83ea840b97",
+      "isCreated": true
+    },
+    {
+      "content": "`React.createElement` 与 `__jsx`",
+      "preview": "<p><code>React.createElement</code> 与 <code>__jsx</code></p>",
+      "tags": [],
+      "createTime": 1667051877140,
+      "updateTime": 1667051877140,
+      "uuid": "b3bccc46-7c51-4e3e-bf66-78d79cb9da5a",
+      "isCreated": true
+    },
+    {
+      "content": "`node_modules` 中的 `.bin` 目录是什么。\n",
+      "preview": "<p><code>node_modules</code> 中的 <code>.bin</code> 目录是什么。</p>",
+      "tags": [],
+      "createTime": 1667042841157,
+      "updateTime": 1667042841157,
+      "uuid": "d1abb7a4-f4e4-436a-8c80-97d7fc2229ab",
+      "isCreated": true
+    },
+    {
+      "content": "`npm init` 会发生什么？",
+      "preview": "<p><code>npm init</code> 会发生什么？</p>",
+      "tags": [],
+      "createTime": 1667042761664,
+      "updateTime": 1667042761664,
+      "uuid": "1638c670-6a2b-4177-a035-d171ade660db",
+      "isCreated": true
+    },
+    {
+      "content": "[husky](https://typicode.github.io/husky/#/)\n\n它是个什么东东。",
+      "preview": "<p><a aria-label-position=\"top\" aria-label=\"https://typicode.github.io/husky/#/\" rel=\"noopener\" class=\"external-link\" href=\"https://typicode.github.io/husky/#/\" target=\"_blank\">husky</a></p>\n<p>它是个什么东东。</p>",
+      "tags": [
+        "husky"
+      ],
+      "createTime": 1667042716011,
+      "updateTime": 1667042716011,
+      "uuid": "bacc1416-af0e-4d3a-90a9-f1937df9486f",
+      "isCreated": true
+    },
+    {
+      "content": "`ReactElement` 类型与 `JSX.Element` 类型。\n\n`JSX.IntrinsicElements`",
+      "preview": "<p><code>ReactElement</code> 类型与 <code>JSX.Element</code> 类型。</p>\n<p><code>JSX.IntrinsicElements</code></p>",
+      "tags": [
+        "TypeScript",
+        "React"
+      ],
+      "createTime": 1667032031555,
+      "updateTime": 1667041984489,
+      "uuid": "c6e39a27-ca7f-40c8-8f99-4a14b9698e03",
+      "isCreated": true
+    },
+    {
+      "content": "- `git stash`\n- `git rebase`\n\n二者的使用",
+      "preview": "<ul>\n<li><code>git stash</code></li>\n<li><code>git rebase</code></li>\n</ul>\n<p>二者的使用</p>",
+      "tags": [
+        "Git"
+      ],
+      "createTime": 1665726377924,
+      "updateTime": 1667032070775,
+      "uuid": "83b9027a-75a5-4fed-81de-129a7b053f65",
+      "isCreated": true
+    },
+    {
+      "content": "`insertAdjacentHTML` 的使用。",
+      "preview": "<p><code>insertAdjacentHTML</code> 的使用。</p>",
+      "tags": [
+        "DOM"
+      ],
+      "createTime": 1665498814472,
+      "updateTime": 1665726406471,
+      "uuid": "7651e62f-c84a-4343-9be3-26c4d754c932",
+      "isCreated": true
+    },
+    {
+      "content": "元素的 `append` 与 `appendChild` 有何不同？",
+      "preview": "<p>元素的 <code>append</code> 与 <code>appendChild</code> 有何不同？</p>",
+      "tags": [
+        "DOM API"
+      ],
+      "createTime": 1665227195962,
+      "updateTime": 1665726417778,
+      "uuid": "2ffb335a-07b5-4a6a-9aa3-347c63607f2e",
+      "isCreated": true
+    }
+  ]
+}

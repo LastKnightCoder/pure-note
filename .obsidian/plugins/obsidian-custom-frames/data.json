@@ -1,0 +1,49 @@
+{
+  "frames": [
+    {
+      "url": "https://www.notion.so/lastknightcoder/45096ef1b47b4490a5b1aef7923413bd?v=a78162e85b47488dbee6fbbe11b13317",
+      "displayName": "Notion Planner",
+      "icon": "",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    },
+    {
+      "url": "https://www.notion.so/lastknightcoder/416104a00f7b4701a289d2465cad7b82?v=88b55689b43344aeb65033ca4e41c5cd",
+      "displayName": "Notion Board",
+      "icon": "clipboard-list",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "position: absolute;\ntop: 0;\nleft: 0;\nwidth: 100%;\nheight: 100%;"
+    },
+    {
+      "url": "https://weread.qq.com",
+      "displayName": "微信读书",
+      "icon": "book",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    },
+    {
+      "url": "https://p7q84wussx.feishu.cn/minutes/me",
+      "displayName": "飞书妙记",
+      "icon": "video",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    }
+  ],
+  "padding": 5
+}
