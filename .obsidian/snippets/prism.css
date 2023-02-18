@@ -52,7 +52,8 @@ body {
   --font-monospace: 'JetBrains Mono', '华文楷体';
   --code-normal: #18045f !important;
   --code-background: transparent !important;
-  --pre-color: #f6f8fa;
+  /*--pre-color: #f6f8fa;*/
+  --pre-color: #fdf6e3;
   --line-height-normal: 1.75;
   --nav-item-size: .85em;
   --list-indent: 2em;
